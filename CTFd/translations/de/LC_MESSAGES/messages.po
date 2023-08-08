@@ -88,7 +88,7 @@ msgstr "Der Name Ihrer CTF-Veranstaltung/Ihres Workshops"
 
 #: CTFd/forms/setup.py:25
 msgid "Event Description"
-msgstr "eranstaltungsbeschreibung"
+msgstr "Veranstaltungsbeschreibung"
 
 #: CTFd/forms/setup.py:25
 msgid "Description for the CTF"
