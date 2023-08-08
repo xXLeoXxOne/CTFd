@@ -80,7 +80,7 @@ msgstr "Generieren"
 #: CTFd/forms/setup.py:22
 #, fuzzy
 msgid "Event Name"
-msgstr "Ereignisname"
+msgstr "Veranstaltungsname"
 
 #: CTFd/forms/setup.py:22
 msgid "The name of your CTF event/workshop"
@@ -88,7 +88,7 @@ msgstr "Der Name Ihrer CTF-Veranstaltung/Ihres Workshops"
 
 #: CTFd/forms/setup.py:25
 msgid "Event Description"
-msgstr "Ereignis Beschreibung"
+msgstr "eranstaltungsbeschreibung"
 
 #: CTFd/forms/setup.py:25
 msgid "Description for the CTF"
